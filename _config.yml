@@ -1,5 +1,5 @@
 # main text of home
-name: Alexandre Carvalho
+name: Alexandre Carvalho, PhD.
 bio: Machine Learning Engineering, Operations and Science
 
 # twitter summary info
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile_picture.jpg
+picture: assets/images/profile_picture2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
