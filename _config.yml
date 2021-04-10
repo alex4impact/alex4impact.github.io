@@ -1,9 +1,9 @@
 # main text of home
 name: Alexandre Carvalho, PhD.
-bio: Machine Learning Engineering, Operations and Science
+bio: Machine Learning Systems Engineering, Continuous Operations and Applied Sciences
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about applied ML in production
 
 # if it's an external image, update below for true
 # better with square images
@@ -55,9 +55,9 @@ twitter: 4impactme
 authors:
   alexcarvalho:
     name: Alexandre Carvalho
-    bio: A Man who travels the world eating noodles
+    bio: A creative problem solver exploring all the ways Machine Learning Systems and Applied Sciences can be engineered for knowledge discovery, statistical learning and machines automation.
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile.png
     twitter: alexcarvalho
   jamesfoster:
     name: James Foster
