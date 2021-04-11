@@ -5,12 +5,6 @@
         </a>
     {% endif %}
 
-    {% if site.twitter %}
-        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank">
-            <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="https://plus.google.com/+{{ site.google }}" target="_blank">
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
@@ -35,9 +29,39 @@
         </a>
     {% endif %}
 
+    {% if site.twitter %}
+        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank">
+            <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+        </a>
+{% endif %}
+
     {% if site.youtube %}
         <a class="link" data-title="youtube.com/{{ site.youtube }}" href="https://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.reddit %}
+        <a class="link" data-title="reddit.com/user/{{ site.reddit }}" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank">
+            <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.medium %}
+        <a class="link" data-title="medium.com/@{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank">
+            <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
 
@@ -50,12 +74,6 @@
     {% if site.lastfm %}
         <a class="link" data-title="last.fm/user/{{ site.lastfm }}" href="https://last.fm/user/{{ site.lastfm }}" target="_blank">
             <svg class="icon icon-lastfm"><use xlink:href="#icon-lastfm"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
-            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
 
@@ -77,18 +95,6 @@
         </a>
     {% endif %}
 
-    {% if site.reddit %}
-        <a class="link" data-title="reddit.com/user/{{ site.reddit }}" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank">
-            <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.medium %}
-        <a class="link" data-title="medium.com/@{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank">
-            <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.vimeo %}
         <a class="link" data-title="vimeo.com/{{ site.vimeo }}" href="https://vimeo.com/{{ site.vimeo }}" target="_blank">
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
@@ -101,9 +107,4 @@
         </a>
     {% endif %}
 
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
-        </a>
-    {% endif %}
 </div>
