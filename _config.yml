@@ -55,9 +55,7 @@ twitter: 4impactme
 authors:
   alexcarvalho:
     name: Alexandre Carvalho
-    bio: Alex is a problem solver by heart. He loves exploring all the ways learning and automation can be engineered. If you also are deeply interested about what is going on in this world of Machine Learning Systems in production and automation of continuous operations at any scale (experimentation, training and serving), drop him a message. He is always happy to have a chat and discuss about it ;)
-    linkedin: alex4impact
-    email: af.carvalho@live.com
+    bio: Alex is a problem solver by heart, who loves exploring all the ways learning and automation can be engineered. Drop him a message if you also are deeply interested about the latest news and what is going on with the world of Machine Learning systems in production, automation of continuous operations at scale, and CI/CD systems that test and deploy ML pipelines to automate the retraining and deployment of new models. He loves to chat about how to gradually implement these practices to help improve the automation of ML systems development and production  ;)
     external-image: false
     picture: assets/images/profile.png
     twitter: alexcarvalho
