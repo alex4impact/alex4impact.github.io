@@ -41,3 +41,5 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 	<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
 	<figcaption class="caption">Refreshing ideas</figcaption>
 </div>
+<hr>
+{% include social-links.html %}
