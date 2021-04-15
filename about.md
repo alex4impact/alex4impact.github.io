@@ -27,7 +27,7 @@ layout: page
     </div>
     <div class="toright">
 		<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
-		<figcaption class="caption">Spending time out in the wild is always great to refresh the mind</figcaption>
+		<figcaption class="caption">Kitesurfing</figcaption>
     </div>
 </div>
 
