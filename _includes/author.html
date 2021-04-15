@@ -5,17 +5,17 @@
             src="{% if site.authors[page.author].external-image == true %}{{ site.authors[page.author].picture }}{% else %}{{ site.url }}/{{ site.authors[page.author].picture }}{% endif %}"
             alt="{{ site.authors[page.author].name }}"
         />
+    </div>
+
+    <div class="toright">
+        <h4 class="name">{{ site.authors[page.author].name }}</h4>
+        <p class="bio">{{ site.authors[page.author].bio }}</p>
         <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
             <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
         </a>
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
-    </div>
-
-    <div class="toright">
-        <h4 class="name">{{ site.authors[page.author].name }}</h4>
-        <p class="bio">{{ site.authors[page.author].bio }}</p>
 
         <div class="share">
             <!-- Note: Only use three share links if your site width is set to large -->
