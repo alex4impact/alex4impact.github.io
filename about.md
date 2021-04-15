@@ -7,7 +7,7 @@ headerImage: false
 
 <h1>About me.</h1>
 
-<p>Hi! I'm Alex, welcome to my blog. I'm a machine learning engineer / data scientist (currently working at Billigence) and all-around technologist. I'm a problem solver by heart, and I love exploring all the ways learning and automation can be engineered to add value to our society. I'm interested in machine learning, robotics, programming language design, electronics, 3D printing, IoT devices and drones. I love to chat about practical challenges and opportunities with applied Machine Learning systems and the latest scientific developments.</p>
+<p>Hi! I'm Alex, welcome to my blog. I'm a machine learning engineer / data scientist (currently working at Billigence) and all-around technologist. I'm a problem solver by heart, and I love exploring all the ways learning and automation can be engineered to add value to our society. I'm interested in machine learning, robotics, programming language design, electronics, 3D printing, IoT devices and drones. I love to chat about practical challenges and opportunities within applied Machine Learning systems and the latest scientific developments.</p>
 
 <div class="side-by-side">
     <div class="toleft">
