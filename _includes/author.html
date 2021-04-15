@@ -8,15 +8,17 @@
     </div>
 
     <div class="toright">
-        <h4 class="name">{{ site.authors[page.author].name }}</h4>
-        <p class="bio">{{ site.authors[page.author].bio }}</p>
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
-            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
-        </a>
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
-        </a>
-
+        <div class="contact_bio">
+            <h4 class="name">{{ site.authors[page.author].name }}</h4>
+            <p class="bio">{{ site.authors[page.author].bio }}</p>
+            {% include social-links.html %}
+            <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
+                <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+            </a>
+            <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+                <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+            </a>
+        </div>
         <div class="share">
             <!-- Note: Only use three share links if your site width is set to large -->
             <!-- If site width is set to normal, you may choose any two share links -->
