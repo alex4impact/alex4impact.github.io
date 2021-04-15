@@ -20,11 +20,23 @@ layout: page
 
 <p>I love running, and there is some cool coastal trails around my place in Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
 
-<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
-<figcaption class="caption">Running with Bento</figcaption>
+<div class="side-by-side">
+    <div class="toleft">
+		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
+		<figcaption class="caption">Running with Bento</figcaption>
+    </div>
+    <div class="toright">
+		<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
+		<figcaption class="caption">Spending time out in the wild is always great to refresh the mind</figcaption>
+    </div>
+</div>
 
-![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" }
-<figcaption class="caption">Spending time out in the wild is always great to refresh the mind.</figcaption>
+<!-- 
+<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
+<figcaption class="caption">Running with Bento</figcaption> -->
+
+<!-- ![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" }
+<figcaption class="caption">Spending time out in the wild is always great to refresh the mind.</figcaption> -->
 <!-- ![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } -->
 
 <p>I'm a huge adventurer, and I love to travel. I've traveled the whole Brazilian territory, Argentina, and I've taken 2 trips to the US and 2 trips to Europe visiting Portugal, Spain, Switzerland and England, and I have an extensive list of places/cultures I'd like to see/experience.</p>
