@@ -37,7 +37,7 @@ headerImage: false
     </div>
 </div>
 <div>
-	![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg)
+	<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
 	<figcaption class="caption">Spending time out in the wild is a great way to refresh the mind.</figcaption>
 </div>
 
