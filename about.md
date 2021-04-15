@@ -32,7 +32,7 @@ headerImage: false
 		<p>I love running, and there are some cool coastal trails around Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
     </div>
     <div class="toright">
-		![Kitesurfing]({{ site.url }}/assets/images/bento.jpeg)
+		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
 		<figcaption class="caption">Running with Bento</figcaption>
     </div>
 </div>
