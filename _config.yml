@@ -55,7 +55,7 @@ twitter: 4impactme
 authors:
   alexcarvalho:
     name: Alexandre Carvalho
-    bio: A creative problem solver exploring all the ways Applied ML Systems can be efficiently engineered for knowledge discovery, statistical learning and machines automation.
+    bio: Alex is a problem solver by heart, that loves exploring all the ways learning and automation can be engineered. Currently, he's been learning how to efficiently productionise the automation of any scale ML Systems continuous operations (experimentation, training and serving).
     external-image: false
     picture: assets/images/profile.png
     twitter: alexcarvalho
