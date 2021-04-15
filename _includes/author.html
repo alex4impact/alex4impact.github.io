@@ -5,12 +5,12 @@
             src="{% if site.authors[page.author].external-image == true %}{{ site.authors[page.author].picture }}{% else %}{{ site.url }}/{{ site.authors[page.author].picture }}{% endif %}"
             alt="{{ site.authors[page.author].name }}"
         />
-        {% include social-links.html %}
     </div>
 
     <div class="toright">
         <h4 class="name">{{ site.authors[page.author].name }}</h4>
         <p class="bio">{{ site.authors[page.author].bio }}</p>
+        {% include social-links.html %}
 
         <div class="share">
             <!-- Note: Only use three share links if your site width is set to large -->
