@@ -42,4 +42,4 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 	<figcaption class="caption">Refreshing ideas</figcaption>
 </div>
 <hr>
-{% include social-links.html %}
+<p align="center">{% include social-links.html %}</p>
