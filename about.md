@@ -2,10 +2,10 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+
 
 <h1>About me.</h1>
-
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 <p>Hi! I'm Alex, welcome to my blog. I'm a scientist turned into machine learning engineer / data scientist (currently working at Billigence) and all-around nerd. I'm super excited to share what I'm learning here on this blog.</p>
 
 ![me]({{ site.url }}/assets/images/self2.jpeg)
