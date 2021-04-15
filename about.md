@@ -31,7 +31,7 @@ headerImage: false
 <div class="side-by-side">
     <div class="toleft">
 		<p>I love running in the wild, and I'm always running with my dog and my wife on coastal trails, in the bush and in very muddy obstacle races. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.
-		One curiosity about me is that I used to be an adrenaline lover when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling from very high buildings.</p>
+		One curiosity about me is that I used to be an adrenaline lover when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling out of very high buildings.</p>
     </div>
     <div class="toright">
 		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
