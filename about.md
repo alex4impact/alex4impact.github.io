@@ -4,43 +4,35 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h1>About me.</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi! I'm Alex, welcome to my blog. I'm a scientist turned into machine learning engineer / data scientist (currently working at Billigence) and all-around nerd. I'm super excited to share what I'm learning here on this blog.</p>
 
-<h2>Skills</h2>
+<p>I started this blog for two purposes: to write about what I'm learning in my own words, and to share my perspectives and reflections with others and my future self. The former reason serves mainly to reinforce what I'm learning (you don't really know something unless you can teach it!), while the latter is simply a way for me to share what reflections I've found helpful for me and store a snapshot of my views over the course of my life. Many of the blog posts are a living document, so I'll come back and edit things, add new info, switch out the graphics, etc. These are also pretty informal posts, more of a quick brain dump than a work of literary art.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>In all honesty, this is more of a journal than a blog, but I've chosen to make this journal public in the case of a) the content can help someone else and b) someone disagrees and we can have a discussion. I'm a big believer in open, frank critique of ideas and I believe the best way to grow an idea is to attack it. Don't take what I write on here for granted - ask yourself if what I'm talking about makes sense to you. If it doesn't, speak up! Let's have a discussion.</p>
 
-<h2>Projects</h2>
+---
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<h2>A little bit about myself</h2>
+
+
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="assets/images/profile.png" alt="Alt Text">
+        <figcaption class="caption">Spending time out in the wild is always a great way to refresh the mind.</figcaption>
+    </div>
+    <div class="toright">
+        <p>I love running. There some cool coastal trails around Sydney, and I'm always running there with Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
+    </div>
+</div>
+
+![Markdowm Image][assets/images/profile.png]{: class="bigger-image" }
+
+<p>I'm a huge adventurer, and I love to travel. I've traveled the whole Brazilian territory, Argentina, and I've taken 2 trips to the US and 2 trips to Europe visiting Portugal, Spain, Switzerland and England, and I have an extensive list of places/cultures I'd like to see/experience.</p>
+
+![Markdowm Image][assets/images/profile.png]
+<figcaption class="caption">Spending time out in the wild is always great to refresh the mind.</figcaption>
+
+<p>My interests span from engineering to neuroscience and many fields in between - my curiosity fuels an insatiable love for learning new things. I'm also fascinated by entrepreneurship and wish to make my impact through creating businesses that add value to our society.</p>
