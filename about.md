@@ -27,13 +27,8 @@ layout: page
         <p>I love running, and there is some cool coastal trails around my place in Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
     </div>
 </div>
-<hr>
-<div>
-	<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
-	<figcaption class="caption">Kitesurfing</figcaption>
-</div>
-
-![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg)
+<br>
+![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } 
 
 <!-- ![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } -->
 
