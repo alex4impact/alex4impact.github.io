@@ -8,7 +8,7 @@ layout: page
 
 <p>Hi! I'm Alex, welcome to my blog. I'm a scientist turned into machine learning engineer / data scientist (currently working at Billigence) and all-around nerd. I'm super excited to share what I'm learning here on this blog.</p>
 
-![Markdowm Image][{{ site.url }}/assets/images/family_run.jpeg]{: class="bigger-image" }
+![me]({{ site.url }}/assets/images/self2.jpeg){: class="bigger-image" }
 
 <p>I started this blog for two purposes: to write about what I'm learning in my own words, and to share my perspectives and reflections with others and my future self. The former reason serves mainly to reinforce what I'm learning (you don't really know something unless you can teach it!), while the latter is simply a way for me to share what reflections I've found helpful for me and store a snapshot of my views over the course of my life. Many of the blog posts are a living document, so I'll come back and edit things, add new info, switch out the graphics, etc. These are also pretty informal posts, more of a quick brain dump than a work of literary art.</p>
 
@@ -28,8 +28,9 @@ layout: page
     </div>
 </div>
 <br>
-![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } 
-
+<div>
+	![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } 
+</div>
 <!-- ![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } -->
 
 <p>I'm a huge adventurer, and I love to travel. I've traveled the whole Brazilian territory, Argentina, and I've taken 2 trips to the US and 2 trips to Europe visiting Portugal, Spain, Switzerland and England, and I have an extensive list of places/cultures I'd like to see/experience.</p>
