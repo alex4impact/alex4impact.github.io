@@ -22,22 +22,22 @@ layout: page
     <div class="toleft">
         <img class="image" src="{{ site.url }}/assets/images/family_run.jpeg" alt="family run">
         <figcaption class="caption">Family run</figcaption>
-		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
-        <figcaption class="caption">Running with Bento</figcaption>
     </div>
     <div class="toright">
         <p>I love running, and there is some cool coastal trails around my place in Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
     </div>
 </div>
-<!-- 
-<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="family run">
-<figcaption class="caption">Kitesurfing</figcaption> -->
+<hr>
+<div>
+	<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
+	<figcaption class="caption">Kitesurfing</figcaption>
+</div>
 
-![Markdowm Image][{{ site.url }}/assets/images/kite.jpeg]{: class="bigger-image" }
+[Markdowm Image][{{ site.url }}/assets/images/kite.jpeg]{: class="bigger-image" }
 
 <p>I'm a huge adventurer, and I love to travel. I've traveled the whole Brazilian territory, Argentina, and I've taken 2 trips to the US and 2 trips to Europe visiting Portugal, Spain, Switzerland and England, and I have an extensive list of places/cultures I'd like to see/experience.</p>
 
-![Markdowm Image][assets/images/profile.png]
+[Markdowm Image][assets/images/profile.png]
 <figcaption class="caption">Spending time out in the wild is always great to refresh the mind.</figcaption>
 
 <p>My interests span from engineering to neuroscience and many fields in between - my curiosity fuels an insatiable love for learning new things. I'm also fascinated by entrepreneurship and wish to make my impact through creating businesses that add value to our society.</p>
