@@ -22,13 +22,11 @@ layout: page
     <div class="toleft">
         <img class="image" src="{{ site.url }}/assets/images/family_run.jpeg" alt="family run">
         <figcaption class="caption">Family run</figcaption>
-    </div>
-    <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
+		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
         <figcaption class="caption">Running with Bento</figcaption>
     </div>
     <div class="toright">
-        <p>I love running. There are some cool coastal trails around my place in Sydney, and I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
+        <p>I love running, and there is some cool coastal trails around my place in Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
     </div>
 </div>
 <!-- 
