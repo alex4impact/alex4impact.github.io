@@ -31,9 +31,9 @@ layout: page
         <p>I love running. There are some cool coastal trails around my place in Sydney, and I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
     </div>
 </div>
-
+<!-- 
 <img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="family run">
-<figcaption class="caption">Kitesurfing</figcaption>
+<figcaption class="caption">Kitesurfing</figcaption> -->
 
 ![Markdowm Image][{{ site.url }}/assets/images/kite.jpeg]{: class="bigger-image" }
 
