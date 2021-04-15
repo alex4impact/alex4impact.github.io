@@ -23,10 +23,7 @@ layout: page
 <img class="image" src="{{ site.url }}/assets/images/family_run.jpeg" alt="family run">
 <figcaption class="caption">Family run</figcaption>
 
-<br>
-<div>
-	![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } 
-</div>
+![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } 
 <!-- ![Kitesurfing]({{ site.url }}/assets/images/kite.jpeg){: class="bigger-image" } -->
 
 <p>I'm a huge adventurer, and I love to travel. I've traveled the whole Brazilian territory, Argentina, and I've taken 2 trips to the US and 2 trips to Europe visiting Portugal, Spain, Switzerland and England, and I have an extensive list of places/cultures I'd like to see/experience.</p>
