@@ -12,7 +12,7 @@ headerImage: false
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/self3.jpeg" alt="myself">
+        <img class="image" src="{{ site.url }}/assets/images/self_1.jpeg" alt="myself">
     </div>
     <div class="toright">
         <p>I started this blog for two purposes: to write about what I'm learning in my own words, and to share my perspectives and reflections with others and my future self. The former reason serves mainly to reinforce what I'm learning (you don't really know something unless you can teach it!), while the latter is simply a way for me to share what reflections I've found helpful for me and store a snapshot of my views over the course of my life. Many of the blog posts are a living document, so I'll come back and edit things, add new info, switch out the graphics, etc. These are also pretty informal posts, more of a quick brain dump than a work of literary art.</p>
@@ -30,8 +30,8 @@ headerImage: false
 
 <div class="side-by-side">
     <div class="toleft">
-		<p>I love running in the wild, and I'm always running with my dog and my wife on coastal trails, in the bush and in very muddy obstacle races. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
-		<p>One curiosity about me is that I used to be an adrenaline lover when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling from very high buildings.</p>
+		<p>I love running in the wild, and I'm always running with my dog and my wife on coastal trails, in the bush and in very muddy obstacle races. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.
+		One curiosity about me is that I used to be an adrenaline lover when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling from very high buildings.</p>
     </div>
     <div class="toright">
 		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
