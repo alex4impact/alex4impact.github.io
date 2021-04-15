@@ -18,11 +18,13 @@ layout: page
 
 <h2>A little bit about myself</h2>
 
-<p>I love running, and there is some cool coastal trails around my place in Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
+<p>I love running, and there are some cool coastal trails around Sydney. I'm always running there with my wife and Bento. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.</p>
 <figcaption class="caption">Running with Bento</figcaption>
 <img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
+<figcaption class="caption">Running with Bento</figcaption>
+![Kitesurfing]({{ site.url }}/assets/images/bento.jpeg){: class="bigger-image" }
 
-<figcaption class="caption">Resfreshing the mind</figcaption>
+<figcaption class="caption">Kitesurfing</figcaption>
 <img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
 
 <hr>
