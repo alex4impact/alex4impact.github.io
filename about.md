@@ -22,7 +22,7 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 <p>I'm super excited to share what I'm learning on this blog.</p>
 <p>Feel free to be in touch! Thanks for stopping by.</p>
 <p align="center">
-	<div align="center">{% include social-links.html %}</div>
+	<div>{% include social-links.html %}</div>
 </p>
 
 ---
