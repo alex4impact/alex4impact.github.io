@@ -31,7 +31,7 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 <div class="side-by-side">
     <div class="toleft">
     I love running in the wild, and I'm always running with my dog and my wife on coastal trails, in the bush and in very muddy obstacle races. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.
-		Another curiosity about me is that I used to be more of an adrenaline seeker when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling out of very tall buildings. I'm really grateful for having grown up in these environments because it taught me how to read the context, plan, focus and quickly adapt to achieve goals and take the right actions.
+		Another curiosity about me is that I used to be more of an adrenaline seeker when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling out of very tall buildings. I'm really grateful for the opportunity of growing up in these environments because it taught me how to read the context, plan, focus and quickly adapt to achieve goals and take the right actions.
     </div>
     <div class="toright">
 		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
