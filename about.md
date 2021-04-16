@@ -21,12 +21,9 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 
 <p>I'm super excited to share what I'm learning on this blog.</p>
 <p>Feel free to be in touch! Thanks for stopping by.</p>
-<p style="position: center;">
+<p style="text-align: center;">
 	<div>{% include social-links.html %}</div>
 </p>
-{:refdef: style="text-align: center;"}
-{% include social-links.html %}
-{: refdef}
 
 ---
 
