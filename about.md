@@ -21,6 +21,7 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 
 <p>I'm super excited to share what I'm learning on this blog.</p>
 <p>Feel free to be in touch! Thanks for stopping by.</p>
+<p class="text-center">{% include social-links.html %}</p>
 
 ---
 
@@ -41,5 +42,3 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 	<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
 	<figcaption class="caption">Refreshing ideas</figcaption>
 </div>
-<hr>
-<p align="center">{% include social-links.html %}</p>
