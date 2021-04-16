@@ -31,7 +31,7 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 <div class="side-by-side">
     <div class="toleft">
 		<p>I love running in the wild, and I'm always running with my dog and my wife on coastal trails, in the bush and in very muddy obstacle races. I also have a kitesurfing gear that I'll take out when the winds are strong enough for sailing.
-		One curiosity about me is that I used to be an adrenaline lover when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling out of very tall buildings.</p>
+		Another curiosity about me is that I used to be more of an adrenaline lover/seeker when younger. I've competed on big motocross championships, jiu-jitsu tournments, and I also have done a lot of abseiling out of very tall buildings.</p>
     </div>
     <div class="toright">
 		<img class="image" src="{{ site.url }}/assets/images/bento.jpeg" alt="bento">
@@ -42,3 +42,6 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 	<img class="image" src="{{ site.url }}/assets/images/kite.jpeg" alt="kitesurfing">
 	<figcaption class="caption">Refreshing ideas</figcaption>
 </div>
+
+<div class="breaker"></div>
+<span class="evidence">Enough from me! :) If you are around Sydney, lets grab a coffee and catch up about the lastest challenges and cool things in ML you are up too! If you are anywhere else in the world, lets catch up anyway!</span>
