@@ -45,3 +45,4 @@ In all honesty, this is more of a journal than a blog, but I've chosen to make t
 
 <div class="breaker"></div>
 <span class="evidence">Enough from me! :) If you are around Sydney, lets grab a cup of coffee and catch up about the lastest challenges and cool things in ML you are up too! If you are anywhere in the world, reach out and lets catch up anyway!</span>
+{% include social-links.html %}
